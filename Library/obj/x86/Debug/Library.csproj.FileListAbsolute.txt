@@ -1,0 +1,17 @@
+C:\Users\user\Desktop\Library - Copy\Project2-Library\bin\Debug\Project2-Library.exe.config
+C:\Users\user\Desktop\Library - Copy\Project2-Library\bin\Debug\Project2-Library.exe
+C:\Users\user\Desktop\Library - Copy\Project2-Library\bin\Debug\Project2-Library.pdb
+C:\Users\user\Desktop\Library - Copy\Project2-Library\obj\x86\Debug\Library.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Library - Copy\Project2-Library\obj\x86\Debug\Library.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Library - Copy\Project2-Library\obj\x86\Debug\Project2_Library.About.resources
+C:\Users\user\Desktop\Library - Copy\Project2-Library\obj\x86\Debug\Project2_Library.Loading.resources
+C:\Users\user\Desktop\Library - Copy\Project2-Library\obj\x86\Debug\Project2_Library.Login.resources
+C:\Users\user\Desktop\Library - Copy\Project2-Library\obj\x86\Debug\Project2_Library.Main.resources
+C:\Users\user\Desktop\Library - Copy\Project2-Library\obj\x86\Debug\Project2_Library.PrintOptions.resources
+C:\Users\user\Desktop\Library - Copy\Project2-Library\obj\x86\Debug\Project2_Library.Properties.Resources.resources
+C:\Users\user\Desktop\Library - Copy\Project2-Library\obj\x86\Debug\Project2_Library.Report.resources
+C:\Users\user\Desktop\Library - Copy\Project2-Library\obj\x86\Debug\Library.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Library - Copy\Project2-Library\obj\x86\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Library - Copy\Project2-Library\obj\x86\Debug\Library.csproj.CopyComplete
+C:\Users\user\Desktop\Library - Copy\Project2-Library\obj\x86\Debug\Project2-Library.exe
+C:\Users\user\Desktop\Library - Copy\Project2-Library\obj\x86\Debug\Project2-Library.pdb
